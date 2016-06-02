@@ -4,3 +4,5 @@ matplotlib
 scipy
 annoy
 scikit-learn
+ipython
+jupyter
